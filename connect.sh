@@ -2,7 +2,7 @@
 set -e -u -o pipefail
 
 USER="tom"
-DB="postgres"
+DB="tp_multilang_db"
 HOST="localhost"
 PORT="5432"
 export PGPASSWORD="2212"
