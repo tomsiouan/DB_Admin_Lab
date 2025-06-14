@@ -86,7 +86,7 @@ I chose to use Docker to host my PostgreSQL instance because I have always used 
 
 #### Execute the initial database setup
 ```bash
-./execute.sh
+./run.sh
 ```
 
 #### Backup the database
