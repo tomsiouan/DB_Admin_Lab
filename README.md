@@ -1,8 +1,8 @@
-# TP Admin BDD
+# DB Admin Lab
 
-## Table des matières
-- [TP Admin BDD](#tp-admin-bdd)
-  - [Table des matières](#table-des-matières)
+## Table of Contents
+- [DB Admin Lab](#db-admin-lab)
+  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
   - [Prerequisites](#prerequisites)
@@ -17,10 +17,11 @@
       - [Restore a specific table](#restore-a-specific-table)
       - [Check the status of the databases](#check-the-status-of-the-databases)
 
+
 ---
 
 ## Introduction
-This project provides a set of Bash scripts to manage a PostgreSQL database via Docker: building and launching the container, performing backups (full or targeted), restores, and status checks.
+This project provides a set of Bash scripts to manage a PostgreSQL database via Docker: building and launching the container, performing backups (full or targeted), restores, and status checks – all in an automated way.
 
 I chose to use Docker to host my PostgreSQL instance because I have always used the Docker version of PostgreSQL on my machine, and I also opted for this solution for practical reasons related to replicating the exercise.
 
