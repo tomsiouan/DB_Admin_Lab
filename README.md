@@ -65,7 +65,6 @@ I chose to use Docker to host my PostgreSQL instance because I have always used 
 ## Launching All Operations
 
 ```bash
-chmod +x *.sh Docker/*.sh save_and_restore/*.sh
 ./run_all.sh
 ```
 
