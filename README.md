@@ -20,7 +20,7 @@
 ---
 
 ## Introduction
-This project provides a set of Bash scripts to manage a PostgreSQL database via Docker: building and launching the container, performing backups (full or targeted), restores, and status checks – all in an automated way.
+This project provides a set of Bash scripts to manage a PostgreSQL database via Docker: building and launching the container, performing backups (full or targeted), restores, and status checks.
 
 I chose to use Docker to host my PostgreSQL instance because I have always used the Docker version of PostgreSQL on my machine, and I also opted for this solution for practical reasons related to replicating the exercise.
 
